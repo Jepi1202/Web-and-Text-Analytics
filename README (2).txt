@@ -1,0 +1,1 @@
+sentiment_analyzis_main contains the code applied on the reviews while the other notebooks contains the data related to financial statements. Those two notebooks are basically copies of themselves. Threre are juste some modifications in the EDA.
